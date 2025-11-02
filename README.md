@@ -33,19 +33,6 @@ Test your memory and see how far you can go!
 
 ---
 
-## 🧠 Run Locally
-
-```bash
-git clone https://github.com/your-username/simon-memory-game.git
-cd simon-memory-game
-npm install
-npm run dev
-```
-
-Then open [http://localhost:5173](http://localhost:5173) in your browser.
-
----
-
 ## 💡 Future Ideas
 
 - Add sound effects for each color  
